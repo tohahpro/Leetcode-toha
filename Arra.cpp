@@ -14,7 +14,8 @@ int main()
     cout<<"The elements of array are: ";
     for(int i=0;i<n;i++)
     {
-        cout<<arr[i]<<" ";
+        cout<<arr[i]
+        <<" con";
     }
     return 0;
 }
